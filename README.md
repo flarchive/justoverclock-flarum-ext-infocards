@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of justoverclock/flarum-ext-infocards.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/flarum-ext-infocards) or the [upstream repository](https://github.com/justoverclockl/flarum-ext-infocards).
 
-**0** versions archived · Latest: [`0.1.5`](https://github.com/flarchive/justoverclock-flarum-ext-infocards/tree/archive/v0.1.5) · License: `MIT` · Flarum: `^1.0.0`
+**6** versions archived · Latest: [`0.1.5`](https://github.com/flarchive/justoverclock-flarum-ext-infocards/tree/archive/v0.1.5) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-05-02 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-infocards/tree/archive/v0.1.0) |
+| `0.1.1` | 2021-05-03 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-infocards/tree/archive/v0.1.1) |
+| `0.1.2` | 2021-05-03 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-infocards/tree/archive/v0.1.2) |
+| `0.1.3` | 2021-05-05 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-infocards/tree/archive/v0.1.3) |
+| `0.1.4` | 2021-05-17 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-infocards/tree/archive/v0.1.4) |
+| `0.1.5` | 2021-07-17 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-flarum-ext-infocards/tree/archive/v0.1.5) |
 
 Catalog entry: [packages/justoverclock-flarum-ext-infocards.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-flarum-ext-infocards.json)
 
